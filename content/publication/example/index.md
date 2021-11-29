@@ -45,10 +45,10 @@ tags: []
 projects:
   - example
 image:
-  placement: 1
+  placement: 2
   caption: The Romanche OTF
   focal_point: 
-  preview_only: True
+  preview_only: false
   filename: featured.jpeg
 date: 2021-11-29T19:53:51.214Z
 url_slides: ""
