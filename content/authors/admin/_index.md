@@ -28,15 +28,15 @@ organizations:
   - name: Geo-Ocean
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Geophysics
+      institution: Tongji University
+      year: 2018
+    - course: MS in Marine Geology
+      institution: Second Insititute of Oceanography
+      year: 2014
+    - course: BSc in Oceanography
+      institution: Nanjing Unverisity
+      year: 2011
 email: zhitengyu@gmail.com
 superuser: true
 highlight_name: true
