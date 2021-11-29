@@ -45,7 +45,7 @@ tags: []
 projects:
   - example
 image:
-  caption: "Image credit: [**Unsplash**](abf3388-f1-1-.jpeg)"
+  caption: "Image credit: [**Unsplash**](example/abf3388-f1-1-.jpeg)"
   focal_point: ""
   preview_only: true
   filename: abf3388-f1-1-.jpeg
