@@ -45,9 +45,9 @@ tags: []
 projects:
   - example
 image:
-  caption: "Image credit: [**Unsplash**](example/abf3388-f1-1-.jpeg)"
-  focal_point: ""
-  preview_only: true
+  caption: "The Romanche OTF"
+  focal_point: "Smart"
+  preview_only: false
   filename: abf3388-f1-1-.jpeg
 date: 2021-11-29T19:53:51.214Z
 url_slides: ""
