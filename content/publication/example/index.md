@@ -45,10 +45,10 @@ tags: []
 projects:
   - example
 image:
-  caption: "The Romanche OTF"
-  focal_point: "Smart"
-  preview_only: True
-  filename: abf3388-f1-1-.jpeg
+  caption: The Romanche OTF
+  focal_point: Smart
+  preview_only: true
+  filename: abf3388-f4-1-.jpeg
 date: 2021-11-29T19:53:51.214Z
 url_slides: ""
 publishDate: 2021-04-09T00:00:00.000Z
