@@ -47,11 +47,11 @@ projects:
 image:
   caption: "The Romanche OTF"
   focal_point: "Smart"
-  preview_only: false
+  preview_only: True
   filename: abf3388-f1-1-.jpeg
 date: 2021-11-29T19:53:51.214Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2021-04-09T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
