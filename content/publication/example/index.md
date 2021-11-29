@@ -47,7 +47,7 @@ projects:
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: abf3388-f1-1-.jpeg
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
