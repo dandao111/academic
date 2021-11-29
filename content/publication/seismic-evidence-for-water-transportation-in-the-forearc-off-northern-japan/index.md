@@ -31,7 +31,7 @@ abstract: The water cycle plays an essential role in arc volcanism, earthquake
   interface would result in fluid flow upward, which may trigger large
   megathrust earthquakes and seismicity in the mantle wedge under the forearc.
 draft: false
-featured: false
+featured: true
 image:
   filename: abf3388-f2.jpeg
   focal_point: Smart
