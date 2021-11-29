@@ -1,23 +1,34 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
+abstract: Oceanic transform faults, a key element of plate tectonics, represent
+  the first-order discontinuities along mid-ocean ridges, host large
+  earthquakes, and induce extreme thermal gradients in lithosphere. However, the
+  thermal structure along transform faults and its effects on earthquake
+  generation are poorly understood. Here we report the presence of a 10- to
+  15-kilometer-thick in-depth band of microseismicity in 10 to 34 kilometer
+  depth range associated with a high-temperature (700° to 900°C) mantle below
+  the brittle lithosphere along the Romanche mega transform fault in the
+  equatorial Atlantic Ocean. The occurrence of the shallow 2016 moment magnitude
+  7.1 supershear rupture earthquake and these deep microearthquakes indicate
+  that although large earthquakes occur in the upper brittle lithosphere, a
+  substantial amount of deformation is accommodated in the semibrittle mylonitic
+  mantle that resides at depths below the 600°C isotherm. We also observe a
+  rapid westward deepening of this band of seismicity indicating a strong
+  lateral heterogeneity.
 slides: example
 url_pdf: ""
 publication_types:
-  - "1"
+  - "2"
 authors:
-  - admin
-  - Robert Ford
+  - Zhiteng Yu
+  - Satish C. Singh
+  - Emma P. M. Gregory
+  - Marcia Maia
+  - Zhikai Wang
+  - Daniele Brunelli
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: In *Wowchemy Conference*
+publication: Science Advances
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
@@ -28,7 +39,7 @@ url_source: ""
 url_video: ""
 title: Semibrittle seismic deformation in high-temperature mantle mylonite shear
   zone along the Romanche transform fault
-doi: ""
+doi: 10.1126/sciadv.abf3388
 featured: true
 tags: []
 projects:
@@ -37,9 +48,10 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+  filename: abf3388-f4-1-.jpeg
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
