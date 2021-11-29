@@ -30,11 +30,11 @@ abstract: The water cycle plays an essential role in arc volcanism, earthquake
   patches in the megathrust zone. Destruction of the low-permeability slab
   interface would result in fluid flow upward, which may trigger large
   megathrust earthquakes and seismicity in the mantle wedge under the forearc.
-draft: false
-featured: true
+draft: true
+featured: false
 image:
   filename: abf3388-f2.jpeg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 date: 2021-11-29T19:47:19.404Z
 ---
