@@ -45,7 +45,7 @@ tags: []
 projects:
   - example
 image:
-  placement: 2
+  placement: 1
   caption: The Romanche OTF
   focal_point: Center
   preview_only: false
