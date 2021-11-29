@@ -1,6 +1,6 @@
 ---
 title: Zhiteng YU
-role: Post-doc in Ifremer
+role: A post-doc in Ifremer, France
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -25,7 +25,7 @@ social:
     link: https://www.linkedin.com/
 organizations:
   - name: IFREMER
-  - name: IPGP
+  - name: Geo-Ocean
 education:
   courses:
     - course: PhD in Artificial Intelligence
