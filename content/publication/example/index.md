@@ -47,7 +47,7 @@ projects:
 image:
   placement: 2
   caption: The Romanche OTF
-  focal_point: 
+  focal_point: Center
   preview_only: false
   filename: featured.jpeg
 date: 2021-11-29T19:53:51.214Z
