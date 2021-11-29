@@ -34,7 +34,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: ""
 url_source: ""
 url_video: ""
 title: Semibrittle seismic deformation in high-temperature mantle mylonite shear
